@@ -43,8 +43,6 @@ Copiar código
 1. **Clonar el repositorio**:
 git clone https://github.com/usuario/repo-sugerencias-videos.git
 
-yaml
-Copiar código
 
 2. **Abrir el archivo `index.html`** en cualquier navegador.
 
@@ -132,7 +130,7 @@ Tipografía: Se utiliza la fuente Noto Sans JP para una apariencia limpia y mode
 Botones: Se utilizan los componentes Accordion y Card de Bootstrap para la navegación entre categorías.
 Imágenes y gráficos: Se incluye una imagen central representativa de los videos.
 Créditos
-Este proyecto fue desarrollado por [Tu Nombre] como parte de un desafío de desarrollo web. Si tienes algún comentario o pregunta, no dudes en contactarme.
+Este proyecto fue desarrollado por [Boris Guiñez] como parte de un desafío de desarrollo web. Si tienes algún comentario o pregunta, no dudes en contactarme.
 
 Licencia
 Este proyecto está bajo la licencia MIT.
@@ -140,4 +138,4 @@ Este proyecto está bajo la licencia MIT.
 css
 Copiar código
 
-Cambia el campo **[Tu Nombre]** con tu nombre o cualquier información de contacto que desees agregar.
+Cambia el campo **[Boris Guiñez]** con tu nombre o cualquier información de contacto que desees agregar.
