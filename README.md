@@ -135,7 +135,5 @@ Este proyecto fue desarrollado por [Boris Guiñez] como parte de un desafío de 
 Licencia
 Este proyecto está bajo la licencia MIT.
 
-css
-Copiar código
 
-Cambia el campo **[Boris Guiñez]** con tu nombre o cualquier información de contacto que desees agregar.
+**[Boris Guiñez]** con tu nombre o cualquier información de contacto que desees agregar.
